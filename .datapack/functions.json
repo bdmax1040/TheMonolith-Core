@@ -1,1 +1,1 @@
-{"monolith":{"$func":["load"]}}
+{"monolith":{"$func":["load","scoreboardsetup","tick","gamestart"]}}
