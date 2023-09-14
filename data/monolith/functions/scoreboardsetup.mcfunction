@@ -7,4 +7,4 @@
 
 
 
-#
+#Setup and configure scoreboards on load
